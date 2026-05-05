@@ -1,5 +1,4 @@
 # Custom Screens
-Repository to get suggestions and issues related to https://modrinth.com/mod/custom-screens
 Create fully customizable in-game screens for tutorials, tips, or announcements. Define your own layouts, text, images, and timing through a simple configuration file.
 
 ![ExamplePreset](https://cdn.modrinth.com/data/cached_images/c03a63d0eb02b2720a113b75131f8c54b131a4f6_0.webp)
